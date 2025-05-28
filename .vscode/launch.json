@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ToDoList}",
+            "name": "Debug ToDoList",
+            "program": "${workspaceFolder:ToDoList}/.build/debug/ToDoList",
+            "preLaunchTask": "swift: Build Debug ToDoList"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ToDoList}",
+            "name": "Release ToDoList",
+            "program": "${workspaceFolder:ToDoList}/.build/release/ToDoList",
+            "preLaunchTask": "swift: Build Release ToDoList"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ToDoList}",
+            "name": "Debug MiniKanban",
+            "program": "${workspaceFolder:ToDoList}/.build/debug/MiniKanban",
+            "preLaunchTask": "swift: Build Debug MiniKanban"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ToDoList}",
+            "name": "Release MiniKanban",
+            "program": "${workspaceFolder:ToDoList}/.build/release/MiniKanban",
+            "preLaunchTask": "swift: Build Release MiniKanban"
+        }
+    ]
+}
