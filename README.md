@@ -1,7 +1,8 @@
-# 📝 MiniKanban (Swift CLI App)
+# 📝 MiniKanban
 
-A simple Kanban-style task manager that runs in the terminal — written in Swift.  
-Built as part of my journey learning Swift for the **Apple Developer Academy** 🇮🇩
+![Mini Kanban Screenshot](https://i.imgur.com/6Br5FV6.png)
+
+👋 Hello! This is a simple Kanban-style task manager I made that runs in the terminal — written in Swift!
 
 ---
 
@@ -9,14 +10,37 @@ Built as part of my journey learning Swift for the **Apple Developer Academy** �
 
 - ➕ Add new tasks
 - 📋 View all current tasks
-- 🗑 Remove individual tasks
-- 🔁 Looping menu with input validation
+- 🗑 Removing individual tasks
+- 🔁 Looping menu
 
 ---
 
-## 💻 Preview
+## 🎬 Preview of the Features
 
-> 🎥 **Demo (GIF or terminal screenshot):**  
-![MiniKanban Demo](assets/demo.gif)
+🛠️ Here are GIFs to showcase the features!
 
-> 🖼️ **Screenshot Example:**  
+### 1. Add task ➕
+
+**![1](https://i.imgur.com/mA61XX2.gif)**
+
+
+### 2. View Tasks 📋
+
+**![2](https://i.imgur.com/mjHRbgv.gif)**
+
+
+### 3. Remove Task 🗑
+
+**![3](https://i.imgur.com/9qTjKw1.gif)**
+
+## 👤 Author
+
+* **Ryann Chandiari**
+    * GitHub: [@HyperOrb](https://github.com/HyperOrb)
+    * LinkedIn: [Ryann Chandiari](https://www.linkedin.com/in/rynnchan/)
+
+
+---
+
+
+
