@@ -22,18 +22,18 @@
             "type": "swift",
             "request": "launch",
             "args": [],
-            "cwd": "${workspaceFolder:ToDoList}",
+            "cwd": "${workspaceFolder:MiniKanban}",
             "name": "Debug MiniKanban",
-            "program": "${workspaceFolder:ToDoList}/.build/debug/MiniKanban",
+            "program": "${workspaceFolder:MiniKanban}/.build/debug/MiniKanban",
             "preLaunchTask": "swift: Build Debug MiniKanban"
         },
         {
             "type": "swift",
             "request": "launch",
             "args": [],
-            "cwd": "${workspaceFolder:ToDoList}",
+            "cwd": "${workspaceFolder:MiniKanban}",
             "name": "Release MiniKanban",
-            "program": "${workspaceFolder:ToDoList}/.build/release/MiniKanban",
+            "program": "${workspaceFolder:MiniKanban}/.build/release/MiniKanban",
             "preLaunchTask": "swift: Build Release MiniKanban"
         }
     ]
