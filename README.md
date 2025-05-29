@@ -33,6 +33,15 @@
 
 **![3](https://i.imgur.com/9qTjKw1.gif)**
 
+## 📚 How to Use
+
+1. **Have Swift installed!**
+2. **Open the project in Visual Studio Code**
+3. **Open the terminal and run 'swift build'** may take a few seconds...
+4. **Run 'swift run'**
+5. **Tada! The Mini Kanban should run now!**
+
+
 ## 👤 Author
 
 * **Ryann Chandiari**
